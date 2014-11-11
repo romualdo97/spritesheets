@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#game {
+    text-align: center;
+}
+#game canvas {
+    display: inline-block;
+    background: #fcd1d1;
+}
