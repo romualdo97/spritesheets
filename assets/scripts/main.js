@@ -17,7 +17,6 @@ function init(){
     startWorldObjects()
     run();
 }
-
 function run(){    
     paint();
     act();
